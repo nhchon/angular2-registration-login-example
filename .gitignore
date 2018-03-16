@@ -43,3 +43,4 @@ app/**/*.js.map
 
 # VS Code settings
 .vscode
+.idea
